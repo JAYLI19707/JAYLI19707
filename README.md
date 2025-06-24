@@ -2,15 +2,7 @@
 
 > 专注AI/ML/DL、量化交易、技术分享的开发者
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white)
 
-<table>
-<tr>
-<td width="50%" valign="top">
 
 ## 🚀 关于我
 
@@ -20,8 +12,19 @@
 - 📫 联系我: [你的邮箱]
 - ⚡ 有趣的事实: 热爱摄影和技术写作
 
-</td>
-<td width="50%" valign="top">
+
+
+## 📊 GitHub 统计
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JAYLI19707&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAYLI19707&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+## 📈 贡献图
+
+[![Justin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JAYLI19707&theme=react-dark)](https://github.com/JAYLI19707/github-readme-activity-graph)
+
 
 ## 🛠️ 技术栈
 
@@ -40,20 +43,6 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
 
-</td>
-</tr>
-</table>
-
-## 📊 GitHub 统计
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JAYLI19707&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAYLI19707&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
-## 📈 贡献图
-
-[![Justin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JAYLI19707&theme=react-dark)](https://github.com/JAYLI19707/github-readme-activity-graph)
 
 ## 📝 最新博客文章
 
@@ -64,6 +53,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 *更新时间: 2024-01-01 12:00:00*
+
 
 ---
 
