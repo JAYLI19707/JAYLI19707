@@ -2,9 +2,15 @@
 
 > 专注AI/ML/DL、量化交易、技术分享的开发者
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white)
+
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
 ## 🚀 关于我
 
@@ -15,7 +21,7 @@
 - ⚡ 有趣的事实: 热爱摄影和技术写作
 
 </td>
-<td width="40%" valign="top">
+<td width="50%" valign="top">
 
 ## 🛠️ 技术栈
 
@@ -63,15 +69,6 @@
 
 更多精彩内容请访问我的博客: [Justin的技术博客](https://JAYLI19707.github.io)
 
-## 💼 项目展示
-
-### 🤖 AI/机器学习项目
-- **[LSTM金融预测](链接)** - 使用LSTM进行股价预测的实践项目
-- **[量化交易策略](链接)** - 多因子量化交易策略研究
-
-### 📚 技术博客
-- **[线性代数基础框架](https://JAYLI19707.github.io)** - 机器学习数学基础
-- **[深度学习实践](https://JAYLI19707.github.io)** - 从理论到实践的完整指南
 
 ## 🌐 联系方式
 
@@ -94,7 +91,3 @@
   **感谢您的访问！如果您觉得我的项目有用，请给个⭐️**
   
 </div> 
-
-
-
-
