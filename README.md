@@ -2,6 +2,10 @@
 
 > 专注AI/ML/DL、量化交易、技术分享的开发者
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
 ## 🚀 关于我
 
 - 🔭 目前专注于 **人工智能** 和 **量化交易** 领域
@@ -9,6 +13,9 @@
 - 💬 可以和我聊聊 **Python**, **机器学习**, **量化策略**
 - 📫 联系我: [你的邮箱]
 - ⚡ 有趣的事实: 热爱摄影和技术写作
+
+</td>
+<td width="40%" valign="top">
 
 ## 🛠️ 技术栈
 
@@ -26,6 +33,10 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ## 📊 GitHub 统计
 
@@ -83,8 +94,6 @@
   **感谢您的访问！如果您觉得我的项目有用，请给个⭐️**
   
 </div> 
-
-
 
 
 
