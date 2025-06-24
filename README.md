@@ -4,8 +4,9 @@
 # 👋 Hi, I'm Jay Li
 
 💻 Machine Learning Engineer | 🇬🇧 Based in the UK | Loongson IoT + Quant Finance  
-✍️ I write at [My Blog](https://yourblog.github.io) | [CSDN](https://csdn.net/yourname)  
-📫 Contact: jay@example.com | [LinkedIn](https://linkedin.com/in/yourprofile)  
+✍️ I write at [My Blog](https://jayli19707.github.io/) | [![CSDN](https://img.shields.io/badge/blog-CSDN-red?logo=csdn)](https://blog.csdn.net/JXL1860)
+
+📫 Contact: email | [LinkedIn](https://linkedin.com/in/yourprofile)  
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=jayli123.jayli123)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayli123&show_icons=true&theme=radical)
@@ -28,3 +29,11 @@
 - [如何用 GitHub 搭建图床](https://yourblog.github.io/image-hosting)
 - [六因子选股策略实战](https://yourblog.github.io/strategy)
 
+
+
+## 🧰 Tech Stack
+
+```txt
+Languages     : Python · Java · MATLAB · R · LaTeX
+Frameworks    : PyTorch · Qt · OpenHarmony · DevEco Studio
+Tools & Cloud : Git · GitHub Actions · Conda · ECS · MQTT · NAS
