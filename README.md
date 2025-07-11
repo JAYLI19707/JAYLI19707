@@ -1,6 +1,14 @@
-# 👋 你好，我是 Justin
 
+
+<h1 align="center">👋 Hi, I'm Justin</h1>
 > 专注AI/ML/DL、量化交易、技术分享的开发者
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F78C6C&center=true&vCenter=true&width=435&lines=AI+%7C+ML+%7C+DL+Lover;Quant+Developer+%26+Tech+Blogger;Python+%7C+Finance+%7C+Open+Source" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JAYLI19707&theme=monokai&no-frame=true&row=1" />
+</p>
 
 
 ## 🚀 关于我
