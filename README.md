@@ -2,23 +2,29 @@
 
 <h1 align="center">👋 Hi, I'm Justin</h1>
 > 专注AI/ML/DL、量化交易、技术分享的开发者
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F78C6C&center=true&vCenter=true&width=435&lines=AI+%7C+ML+%7C+DL+Lover;Quant+Developer+%26+Tech+Blogger;Python+%7C+Finance+%7C+Open+Source" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JAYLI19707&theme=monokai&no-frame=true&row=1" />
-</p>
 
 
 ## 🚀 关于我
 
-- 🔭 目前专注于 **人工智能** 和 **量化交易** 领域
-- 🌱 正在学习 **深度学习** 和 **金融工程**
-- 💬 可以和我聊聊 **Python**, **机器学习**, **量化策略**
-- 📫 联系我: [你的邮箱]
-- ⚡ 有趣的事实: 热爱摄影和技术写作
+🔭 当前专注于 人工智能（AI） 与 量化金融（Quant Trading） 的交叉研究
 
+📈 热衷构建 量化策略模型、开发 智能交易系统、探索 机器学习在金融中的应用
+
+🌱 正在深入学习 深度学习（PyTorch）、金融工程 和 强化学习（RL）
+
+🧠 对以下方向尤为感兴趣：
+
+金融市场建模与风险管理
+
+Alpha因子挖掘与因子组合优化
+
+多策略融合与回测系统设计
+
+💬 欢迎和我交流：Python, 机器学习, 金融建模, 系统性投资
+
+✍️ 也热爱 技术写作 与 开源贡献
+
+📷 生活中喜欢拍摄街头光影，记录思维与感知
 
 ## 📊 GitHub 统计
 
