@@ -17,11 +17,12 @@
 
 ## 📊 GitHub 统计
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JAYLI19707&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAYLI19707&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
+<p align="center">
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=JAYLI19707&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAYLI19707&layout=compact&theme=radical&hide_border=true" />
+</p>
 
 ## 🛠️ 技术栈
 
@@ -51,7 +52,7 @@
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-JAYLI19707.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://JAYLI19707.github.io)
-[![Email](https://img.shields.io/badge/Email-your.email@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:JXL1860@gmail.com)
+[![Email](https://img.shields.io/badge/Email-JXL1860@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:JXL1860@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-JAYLI19707-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JAYLI19707)
 
 </div>
