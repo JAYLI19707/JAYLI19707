@@ -10,15 +10,6 @@
 📷 生活中喜欢拍摄街头光影，记录思维与感知  
 
 
-## 📊 GitHub 统计
-
-<p align="center">
-  <img height="180"
-       src="https://github-readme-stats.vercel.app/api?username=JAYLI19707&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
-  <img height="180"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=JAYLI19707&layout=compact&theme=radical&hide_border=true" />
-</p>
-
 ## 🛠️ 技术栈
 
 ### 编程语言
