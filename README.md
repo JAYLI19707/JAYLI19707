@@ -1,13 +1,13 @@
-<h1 align="center">👋 你好，我是 Justin</h1>
-<p align="center">AI / 机器学习开发者，专注于深度学习、强化学习与技术实践</p>
+<h1 align="center">👋 Hi, I'm Justin</h1>
+<p align="center">AI / Machine Learning Developer focused on Deep Learning, Reinforcement Learning, and practical innovation</p>
 
-## 🚀 关于我
+## 🚀 About Me
 
-🔭 专注于人工智能、机器学习与深度学习的研究和工程实践  
-🌱 持续探索 PyTorch、强化学习与算法优化  
-💬 擅长 Python、机器学习、深度学习与数据分析  
-✍️ 通过技术写作和开源项目分享实践经验  
-📷 喜欢用摄影记录生活，也关注技术与现实世界的连接  
+🔭 Exploring research and real-world applications in Artificial Intelligence, Machine Learning, and Deep Learning  
+🌱 Continuously learning PyTorch, Reinforcement Learning, and algorithm optimization  
+💬 Open to conversations about Python, AI, Machine Learning, Deep Learning, and Data Science  
+✍️ Sharing practical insights through technical writing and open-source projects  
+📷 Passionate about street photography and the connection between technology and the real world  
 
 
 ## 🛠️ 技术栈
