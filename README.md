@@ -10,27 +10,27 @@
 📷 Passionate about street photography and the connection between technology and the real world  
 
 
-## 🛠️ 技术栈
+## 🛠️ Tech Stack
 
-### 编程语言
+### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white)
 
-### 机器学习 & AI
+### Machine Learning & AI
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-### 数据分析
+### Data Analysis
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
 
-更多精彩内容请访问我的博客：  
-[Justin的技术博客](https://JAYLI19707.github.io)
+Explore more of my work on my blog:  
+[Justin's Tech Blog](https://JAYLI19707.github.io)
 
-## 🌐 联系方式
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://JAYLI19707.github.io">
@@ -47,7 +47,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JAYLI19707&color=brightgreen&style=flat-square&label=Profile+Views" alt="访问量统计" />
+  <img src="https://komarev.com/ghpvc/?username=JAYLI19707&color=brightgreen&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
 
-<p align="center"><b>感谢您的访问！如果您觉得我的项目有用，请给个 ⭐️</b></p>
+<p align="center"><b>Thanks for visiting! If you find my projects useful, consider giving them a ⭐️</b></p>
