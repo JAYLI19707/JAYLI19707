@@ -14,7 +14,6 @@
 
 ## About Me
 
-I am an undergraduate student at the **Jinan University – University of Birmingham Joint Institute**, studying Information & Computing Science and Applied Mathematics with Information Computing Science (2023–2027).
 
 My interests lie at the intersection of **large language models, recommender systems, and machine learning systems**. I enjoy understanding how models work, reproducing research ideas, and building reliable systems that connect algorithms with real-world applications.
 
