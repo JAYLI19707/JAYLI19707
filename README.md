@@ -48,14 +48,6 @@ My work and learning focus on **large language models, recommender systems, and 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
 
-## Currently Exploring
-
-- Data structures and algorithms
-- Modern LLM training and inference
-- Graph-enhanced recommendation
-- Reliable and reproducible ML engineering
-
----
 
 <div align="center">
 
