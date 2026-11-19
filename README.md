@@ -3,6 +3,8 @@
   <strong>AI · Machine Learning · Software Engineering</strong>
 </p>
 <p align="center">
+  <a href="https://JAYLI19707.github.io">Blog</a> ·
+  <a href="mailto:JXL1860@gmail.com">Email</a> ·
   <a href="https://github.com/JAYLI19707">GitHub</a>
 </p>
 
